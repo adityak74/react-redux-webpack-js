@@ -1,6 +1,19 @@
 # react-redux-webpack-js-boilerplate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This is a simple boilerplate to start off with React project.
+
+Supports
+
+- Webapack 5.0 - Dev Server/Production Build
+- Babel Plugins
+- Redux
+- ReactJS
+
+TBD
+
+- Add Jest Testing Support
+- CI/CD using Git Actions
+- Docker, Docker-Compose
 
 ## Available Scripts
 
@@ -28,9 +41,3 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
